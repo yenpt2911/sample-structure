@@ -1,0 +1,136 @@
+[INFO ] [2023-03-07 17:39:49,372] ------------ START delete file in folder -------------
+[INFO ] [2023-03-07 17:39:49,374] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-07 17:39:49,378] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-07 17:39:52,809] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-07 17:39:53,371] User_Register_01 - STEP 01: Click to 'Register' button
+[INFO ] [2023-03-07 17:39:54,796] OS name = windows 10
+[INFO ] [2023-03-07 17:39:54,796] Driver instance name = windows 10
+[INFO ] [2023-03-07 17:44:55,898] ------------ START delete file in folder -------------
+[INFO ] [2023-03-07 17:44:55,899] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-07 17:44:55,903] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-07 17:44:58,874] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-07 17:44:59,412] User_Register_01 - STEP 01: Click to 'Register' button
+[INFO ] [2023-03-07 17:45:00,954] OS name = windows 10
+[INFO ] [2023-03-07 17:45:00,955] Driver instance name = windows 10
+[INFO ] [2023-03-07 17:47:20,394] ------------ START delete file in folder -------------
+[INFO ] [2023-03-07 17:47:20,395] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-07 17:47:20,398] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-07 17:47:23,461] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-07 17:47:23,968] User_Register_01 - STEP 01: Click to 'Register' button
+[INFO ] [2023-03-07 17:48:05,997] OS name = windows 10
+[INFO ] [2023-03-07 17:48:05,998] Driver instance name = windows 10
+[INFO ] [2023-03-07 17:57:17,013] ------------ START delete file in folder -------------
+[INFO ] [2023-03-07 17:57:17,016] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-07 17:57:17,018] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-07 17:57:20,122] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-07 17:57:20,633] User_Register_01 - STEP 01: Click to 'Register' button
+[INFO ] [2023-03-07 17:58:03,071] OS name = windows 10
+[INFO ] [2023-03-07 17:58:03,071] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:19:53,594] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:19:53,596] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:19:53,600] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:19:59,317] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:19:59,806] User_Register_01 - STEP 01: Select data at Gender radio
+[INFO ] [2023-03-13 13:20:01,552] OS name = windows 10
+[INFO ] [2023-03-13 13:20:01,552] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:22:35,844] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:22:35,845] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:22:35,849] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:22:39,270] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:22:39,772] User_Register_01 - STEP 01: Select data at Gender radio
+[INFO ] [2023-03-13 13:22:41,324] OS name = windows 10
+[INFO ] [2023-03-13 13:22:41,324] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:23:41,769] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:23:41,771] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:23:41,774] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:23:45,075] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:23:47,545] OS name = windows 10
+[INFO ] [2023-03-13 13:23:47,546] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:30:48,319] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:30:48,320] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:30:48,332] OS name = windows 10
+[INFO ] [2023-03-13 13:30:57,596] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:30:57,597] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:30:57,601] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:31:01,058] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:31:03,730] OS name = windows 10
+[INFO ] [2023-03-13 13:31:03,730] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:33:04,814] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:33:04,816] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:33:04,819] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:33:08,098] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:33:10,293] OS name = windows 10
+[INFO ] [2023-03-13 13:33:10,293] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:35:25,312] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:35:25,313] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:35:25,316] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:35:28,803] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:35:29,356] User_Register_01 - STEP 02: Enter data to 'First name' textbox with value: Pham
+[INFO ] [2023-03-13 13:35:29,543] User_Register_01 - STEP 03: Enter data to 'Last name' textbox with value: Cody
+[INFO ] [2023-03-13 13:35:29,713] User_Register_01 - STEP 04: Select day of birth at 'Day' dropdown with value: 20
+[INFO ] [2023-03-13 13:35:29,911] User_Register_01 - STEP 05: Select month of birth at 'Month' dropdown with value: January
+[INFO ] [2023-03-13 13:35:30,120] User_Register_01 - STEP 06: Select month of birth at 'Year' dropdown with value: 1996
+[INFO ] [2023-03-13 13:35:30,292] User_Register_01 - STEP 07: Enter data to 'Email' textbox with value: minmin1022060gmail.com
+[INFO ] [2023-03-13 13:35:30,524] User_Register_01 - STEP 08: Enter data to 'Company name' textbox with value: CodyNamVo
+[INFO ] [2023-03-13 13:35:30,735] User_Register_01 - STEP 09: Enter data to 'Password' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:35:30,873] User_Register_01 - STEP 10: Enter data to 'ConfirmPassword' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:35:31,004] User_Register_01 - STEP 11: Click to 'Register' button
+[INFO ] [2023-03-13 13:35:32,715] OS name = windows 10
+[INFO ] [2023-03-13 13:35:32,715] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:36:04,915] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:36:04,916] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:36:04,919] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:36:08,437] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:36:09,006] User_Register_01 - STEP 02: Enter data to 'First name' textbox with value: Pham
+[INFO ] [2023-03-13 13:36:09,204] User_Register_01 - STEP 03: Enter data to 'Last name' textbox with value: Cody
+[INFO ] [2023-03-13 13:36:09,339] User_Register_01 - STEP 04: Select day of birth at 'Day' dropdown with value: 20
+[INFO ] [2023-03-13 13:36:09,491] User_Register_01 - STEP 05: Select month of birth at 'Month' dropdown with value: January
+[INFO ] [2023-03-13 13:36:09,648] User_Register_01 - STEP 06: Select month of birth at 'Year' dropdown with value: 1996
+[INFO ] [2023-03-13 13:36:09,793] User_Register_01 - STEP 07: Enter data to 'Email' textbox with value: minmin102233gmail.com
+[INFO ] [2023-03-13 13:36:10,017] User_Register_01 - STEP 08: Enter data to 'Company name' textbox with value: CodyNamVo
+[INFO ] [2023-03-13 13:36:10,299] User_Register_01 - STEP 09: Enter data to 'Password' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:36:10,539] User_Register_01 - STEP 10: Enter data to 'ConfirmPassword' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:36:10,781] User_Register_01 - STEP 11: Click to 'Register' button
+[INFO ] [2023-03-13 13:36:12,107] OS name = windows 10
+[INFO ] [2023-03-13 13:36:12,108] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:37:31,337] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:37:31,337] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:37:31,340] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:37:34,230] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:37:34,794] User_Register_01 - STEP 01: Select data at Gender radio
+[INFO ] [2023-03-13 13:37:36,246] OS name = windows 10
+[INFO ] [2023-03-13 13:37:36,246] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:39:55,032] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:39:55,034] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:39:55,037] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:39:58,756] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:39:59,274] User_Register_01 - STEP 01: Select data at Gender radio
+[INFO ] [2023-03-13 13:39:59,423] User_Register_01 - STEP 02: Enter data to 'First name' textbox with value: Pham
+[INFO ] [2023-03-13 13:39:59,602] User_Register_01 - STEP 03: Enter data to 'Last name' textbox with value: Cody
+[INFO ] [2023-03-13 13:39:59,729] User_Register_01 - STEP 04: Select day of birth at 'Day' dropdown with value: 20
+[INFO ] [2023-03-13 13:39:59,922] User_Register_01 - STEP 05: Select month of birth at 'Month' dropdown with value: January
+[INFO ] [2023-03-13 13:40:00,149] User_Register_01 - STEP 06: Select month of birth at 'Year' dropdown with value: 1996
+[INFO ] [2023-03-13 13:40:00,396] User_Register_01 - STEP 07: Enter data to 'Email' textbox with value: minmin1028718gmail.com
+[INFO ] [2023-03-13 13:40:00,716] User_Register_01 - STEP 08: Enter data to 'Company name' textbox with value: CodyNamVo
+[INFO ] [2023-03-13 13:40:01,005] User_Register_01 - STEP 09: Enter data to 'Password' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:40:01,234] User_Register_01 - STEP 10: Enter data to 'ConfirmPassword' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:40:01,480] User_Register_01 - STEP 11: Click to 'Register' button
+[INFO ] [2023-03-13 13:40:02,934] OS name = windows 10
+[INFO ] [2023-03-13 13:40:02,935] Driver instance name = windows 10
+[INFO ] [2023-03-13 13:42:39,334] ------------ START delete file in folder -------------
+[INFO ] [2023-03-13 13:42:39,335] ------------ END delete file in folder ---------------
+[INFO ] [2023-03-13 13:42:39,339] Pre-condition - STEP 01: Open browser'chrome' and navigate to' https://demo.nopcommerce.com/'
+[INFO ] [2023-03-13 13:42:42,311] Pre-condition - STEP 02: Click to 'Register' link
+[INFO ] [2023-03-13 13:42:42,957] User_Register_01 - STEP 01: Select data at Gender radio
+[INFO ] [2023-03-13 13:42:43,129] User_Register_01 - STEP 02: Enter data to 'First name' textbox with value: Pham
+[INFO ] [2023-03-13 13:42:43,426] User_Register_01 - STEP 03: Enter data to 'Last name' textbox with value: Cody
+[INFO ] [2023-03-13 13:42:43,675] User_Register_01 - STEP 04: Select day of birth at 'Day' dropdown with value: 20
+[INFO ] [2023-03-13 13:42:43,863] User_Register_01 - STEP 05: Select month of birth at 'Month' dropdown with value: January
+[INFO ] [2023-03-13 13:42:44,049] User_Register_01 - STEP 06: Select month of birth at 'Year' dropdown with value: 1996
+[INFO ] [2023-03-13 13:42:44,202] User_Register_01 - STEP 07: Enter data to 'Email' textbox with value: minmin1024517@gmail.com
+[INFO ] [2023-03-13 13:42:44,404] User_Register_01 - STEP 08: Enter data to 'Company name' textbox with value: CodyNamVo
+[INFO ] [2023-03-13 13:42:44,539] User_Register_01 - STEP 09: Enter data to 'Password' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:42:44,668] User_Register_01 - STEP 10: Enter data to 'ConfirmPassword' textbox with value: Cody1312
+[INFO ] [2023-03-13 13:42:44,801] User_Register_01 - STEP 11: Click to 'Register' button
+[INFO ] [2023-03-13 13:42:46,145] OS name = windows 10
+[INFO ] [2023-03-13 13:42:46,146] Driver instance name = windows 10

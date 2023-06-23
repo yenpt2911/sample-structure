@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Run test case" >
+
+    <listeners>
+
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="utilities.ReportNGListener" />
+        <listener class-name="utilities.MethodListener" />
+
+    </listeners>
+
+    <parameter name="url" value="https://demo.nopcommerce.com/" />
+
+    <test name = "Run test on CHROME browser">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="com.nopcommerce.register.User_01_Register" />
+        </classes>
+    </test>
+
+</suite>
